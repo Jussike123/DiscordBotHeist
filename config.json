@@ -1,0 +1,10 @@
+{
+  "token": "DISCBOTAPI",
+  "clientId": "SERVERIID",
+  "erlcApiBaseUrl": "https://api.erlc.gg",
+  "erlcApiKey": "ERLCAPIHERE",
+  "notifyDiscordId": "POLITSEIID",
+  "guildId": "SERERIID",
+  "boatApiBaseUrl": "https://unbelievaboat.com/api/v1",
+  "boatApiToken": "BOATAPI"
+}
