@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node_modules/
 .venv/
 __pycache__/
@@ -11,3 +12,18 @@ config.json
 
 # OS files
 .DS_Store
+=======
+node_modules/
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+config.json
+
+# Optional environment files
+.env
+
+# OS files
+.DS_Store
+>>>>>>> 0568330 (Clean public upload)
